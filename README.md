@@ -1,5 +1,4 @@
 # Hellobooks AI Voice Assistant
-## Complete Product Documentation & Pitch Guide
 
 ---
 
